@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2058-concatenation-of-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0066-plus-one) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->
