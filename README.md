@@ -48,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0136-single-number) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
