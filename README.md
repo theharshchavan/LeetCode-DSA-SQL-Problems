@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -30,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Math
@@ -61,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
