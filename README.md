@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -40,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -48,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [3226-minimum-number-game](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3226-minimum-number-game) |
