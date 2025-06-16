@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/2058-concatenation-of-array) |
+| [3194-find-words-containing-character](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3226-minimum-number-game) |
 ## Two Pointers
 |  |
@@ -139,5 +140,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0242-valid-anagram) |
+| [3194-find-words-containing-character](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
