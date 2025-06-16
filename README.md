@@ -139,4 +139,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0242-valid-anagram) |
+| [3379-score-of-a-string](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
