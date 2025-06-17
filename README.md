@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0782-jewels-and-stones](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0782-jewels-and-stones) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0242-valid-anagram) |
+| [0782-jewels-and-stones](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/0782-jewels-and-stones) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/theharshchavan/LeetCode-DSA-Problems/tree/master/3379-score-of-a-string) |
